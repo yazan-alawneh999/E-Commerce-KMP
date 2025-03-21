@@ -145,12 +145,7 @@ The panel comes with a comprehensive **API**, ensuring scalability and flexibili
 Contributions are welcome! If you have any feedback or suggestions, please don't hesitate to let us know. 
 We appreciate your contributions and support. Also if you find a bug or would like to create a new feature, please submit a pull request.
 
-## License
-This library is licensed under the MIT License. See [LICENSE.txt](https://github.com/razaghimahdi/Shoping-By-KMP/blob/master/LICENSE)
 
 
-### more ideas:
-https://github.com/JetBrains/compose-multiplatform-ios-android-template
-https://github.com/JetBrains/compose-multiplatform
 
-Developed by Mahdi Razzaghi Ghaleh
+Developed by yazan alawneh
