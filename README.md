@@ -75,7 +75,7 @@ Obviously it would be more updates, What we are working on these days?
 
 ## Development 💻
 
-Firs, let me say the backend is also in progress. You can find the backend source code [here](https://github.com/aydenGill/shop-admin-panel).
+
 
 We appreciate any feedback or suggestions that you may have to help us improve the project.
 
@@ -131,7 +131,7 @@ You can use the same APIs to build user interfaces for both Android and iOS.
 -->
 
 ## Backend 🌐
-[This project](https://github.com/aydenGill/shop-admin-panel) involves building a robust admin panel for managing an e-commerce platform. 
+involves building a robust admin panel for managing an e-commerce platform. 
 It utilizes **Laravel** for the backend structure and **Livewire** for dynamic frontend interactions. 
 The panel comes with a comprehensive **API**, ensuring scalability and flexibility.
 
