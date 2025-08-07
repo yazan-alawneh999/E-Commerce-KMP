@@ -120,20 +120,7 @@ You can use the same APIs to build user interfaces for both Android and iOS.
 | <img src="screenshots/ios1.png" width="300"/> | <img src="screenshots/ios2.png" width="300"/> | <img src="screenshots/ios3.png" width="300"/> | <img src="screenshots/ios4.png" width="300"/> |
 -->
 
-## Backend 🌐
-involves building a robust admin panel for managing an e-commerce platform. 
-It utilizes **Laravel** for the backend structure and **Livewire** for dynamic frontend interactions. 
-The panel comes with a comprehensive **API**, ensuring scalability and flexibility.
 
-### Features
-- **Admin Dashboard:** Manage products, categories, orders, and customers seamlessly.
-- **Laravel & Livewire:** Leverage the power of Laravel's backend with Livewire for reactive UI.
-- **Full API:** Enables external integrations and interactions with the shopping platform.
-
-
-## Contributing
-Contributions are welcome! If you have any feedback or suggestions, please don't hesitate to let us know. 
-We appreciate your contributions and support. Also if you find a bug or would like to create a new feature, please submit a pull request.
 
 
 
