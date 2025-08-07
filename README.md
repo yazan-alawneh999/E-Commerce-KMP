@@ -73,8 +73,7 @@ We plan to add more features, improve the code quality, and make the application
 
 Our goal is to create a high-quality, multiplatform shopping application that demonstrates the power and flexibility of Jetpack Compose.
 
-Please stay tuned for updates and feel free to contribute to the project by submitting pull requests or opening issues. 
-Together, we can create a great shopping application that meets the needs of users across multiple platforms.
+.
 
 ## Challenges Faced 👨‍💻
 During the development of this project, 
